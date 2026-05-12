@@ -7,7 +7,7 @@
 
 ## What Is This?
 
-The Primerica Operations Hub is a fully offline, browser-based analytics dashboard. You open the HTML file in any modern browser, upload your CSV exports, and the dashboard processes everything locally — nothing is sent to any server. All data stays on your computer.
+The Primerica Operations Hub is a fully offline, browser-based analytics dashboard. You open the HTML file in any modern browser, upload your CSV exports, and the dashboard processes everything locally  — nothing is sent to any server. All data stays on your computer.
 
 It gives you four main views:
 
